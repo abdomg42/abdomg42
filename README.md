@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm a Computer Science & Engineering student with a growing passion for Data Engineering, AI, and building smart, scalable systems.<br> I'm driven by curiosity and love turning raw data into powerful insights and real-world solutions.
+👋 Hi there! I'm Mg<br>🎓 a Computer Science & Engineering student with a strong interest in Data Engineering and systems design.<br>🔭 I’m currently exploring how data flows through systems — from collection to storage, processing, and visualization.<br>🌱 I’m currently learning advanced Python, refining my SQL skills, and diving deeper into tools like Apache (Airflow, Spark, Kafka), Docker, and cloud platforms(AWS, GCP and Azure).<br>💬 I enjoy learning by teaching others — it helps me understand concepts better and grow with the community.<br>⚡ Fun fact: I got into Data Engineering just by asking, “Where does all this data go?” — and now I'm chasing the answer!<br><br>
 
 
 # 💻 Tech Stack:
