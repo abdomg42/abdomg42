@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi there! I'm Abdellah Moghandez a Computer Science & AI student at ENSAMC
 
 
