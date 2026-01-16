@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Abdellah Moghandez a Computer Science & AI student at ENSAMC
+👋 Hi there! I'm MOGHANDEZ ABDELLAH <br>🎓 a Computer Science & Engineering student with a strong interest in Data Engineering and systems design.<br>🔭 I’m currently exploring how data flows through systems — from collection to storage, processing, and visualization.<br>🌱 I’m currently learning advanced Python, refining my SQL skills, and diving deeper into tools like Apache (Airflow, Spark, Kafka), Docker, and cloud platforms(AWS, GCP and Azure).<br>💬 I enjoy learning by teaching others — it helps me understand concepts better and grow with the community.<br>
 
 
 # 💻 Tech Stack:
