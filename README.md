@@ -24,58 +24,53 @@
 ### 👨‍💻 Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ### 🧠 LLM / AI Engineering
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/ChromaDB-FF4F8B?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F8B?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
 ### ⚡ Data Engineering
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
 ### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdomg42&show_icons=true&theme=dark"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=abdomg42&theme=dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomg42&layout=compact&theme=dark"/>
+  <img src="https://komarev.com/ghpvc/?username=abdomg42&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdomg42&icon=5&color=6"/>
-</p>
 
 <p align="center">
   ⚡ From Data → Intelligence → Impact
