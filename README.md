@@ -66,8 +66,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=abdomg42&theme=dark"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=abdomg42&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
