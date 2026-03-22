@@ -23,6 +23,7 @@
 
 ### 👨‍💻 Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -72,21 +73,9 @@
 </p>
 
 ---
-
-## 🚀 What I'm Building
-- 🔹 RAG systems (LLMs + vector databases)
-- 🔹 AI agents with LangGraph
-- 🔹 Data pipelines (Kafka + Spark + Airflow)
-- 🔹 AI-powered tools (search, automation, assistants)
-
----
-
-## 🎯 Goals
-- Become a **production-ready AI Engineer**
-- Master **LLM systems & MLOps**
-- Build scalable **data + AI architectures**
-
----
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=abdomg42&icon=5&color=6"/>
+</p>
 
 <p align="center">
   ⚡ From Data → Intelligence → Impact
